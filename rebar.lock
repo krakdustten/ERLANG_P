@@ -1,0 +1,4 @@
+[{<<"erlang_ale">>,
+  {git,"https://github.com/esl/erlang_ale.git",
+       {ref,"37827e2c5ccc745c4eb5ab966b057b0c21ed920e"}},
+  0}].
